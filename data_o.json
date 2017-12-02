@@ -1,0 +1,30 @@
+[
+    {
+        "Name": "ABC",
+        "Data": {
+            "House_no": [" 7"], 
+            "pincode": ["45871"],
+            "Area": ["ITEM DESCRIPTION"],
+            "Marritial_status": {},
+            "Children": {"Boy": "yes"},
+            "Loans": [""],
+            "Income": ["UNIT PRICE"],
+            "Code": "False",
+            "Allow_Admin_access": "Data"
+        }
+    }, 
+    {
+        "Name": "ABC",
+        "Data": {
+            "House_no": [" 7"],
+            "pincode": ["45871"],
+            "Area": ["ITEM DESCRIPTION"],
+            "Marritial_status": {},
+            "Children": {"Boy": "yes"},
+            "Loans": [""],
+            "Income": ["UNIT PRICE"],
+            "Code": "False",
+            "Allow_Admin_access": "Data"
+        }
+    }
+]

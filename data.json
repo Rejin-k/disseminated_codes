@@ -1,0 +1,56 @@
+[
+    {
+        "Data": {
+            "Code": "False", 
+            "Allow_Admin_access": "Data", 
+            "Area": [
+                "ITEM DESCRIPTION"
+            ], 
+            "pincode": [
+                "45871"
+            ], 
+            "Marritial_status": {}, 
+            "Date_of_birth": "00_00_00", 
+            "Income": [
+                "UNIT PRICE"
+            ], 
+            "House_no": [
+                " 7"
+            ], 
+            "Loans": [
+                ""
+            ], 
+            "Children": {
+                "Boy": "yes"
+            }
+        }, 
+        "Name": "ABC"
+    }, 
+    {
+        "Data": {
+            "Code": "False", 
+            "Allow_Admin_access": "Data", 
+            "Area": [
+                "ITEM DESCRIPTION"
+            ], 
+            "pincode": [
+                "45871"
+            ], 
+            "Marritial_status": {}, 
+            "Date_of_birth": "00_00_00", 
+            "Income": [
+                "UNIT PRICE"
+            ], 
+            "House_no": [
+                " 7"
+            ], 
+            "Loans": [
+                ""
+            ], 
+            "Children": {
+                "Boy": "yes"
+            }
+        }, 
+        "Name": "ABC"
+    }
+]
