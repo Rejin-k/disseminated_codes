@@ -1,0 +1,17 @@
+import json
+
+with open('data.json', 'r+') as f:
+    data_json = json.load(f)
+    new_id = "Allow_qty"
+    value = "No"
+    f.seek(0)
+    index=0
+    for c_name in data_json:
+        print c_name
+        for value in c_name:
+            if value=="Data":
+                data_json[index][value][new_id] = value
+                index=index+1
+                # print(data_json)
+    json.dump(data_json, f, indent=4)
+    f.truncate()
